@@ -10,7 +10,8 @@ Per eseguire la demo con Gulp (http://gulpjs.com/) eseguire i comandi
 
 ```sh
 $ npm install -g gulp
-$ cd path/to/project
+$ git clone git@github.com:giatro/GruntGulpDemo.git
+$ cd GruntGulpDemo
 $ npm install
 $ gulp && gulp watch
 ```
@@ -24,7 +25,8 @@ Per eseguire la demo con Grunt (http://gruntjs.com/) eseguire i comandi
 
 ```sh
 $ npm install -g grunt-cli
-$ cd path/to/project
+$ git clone git@github.com:giatro/GruntGulpDemo.git
+$ cd GruntGulpDemo
 $ npm install
 $ grunt dist && grunt watch
 ```
